@@ -87,3 +87,10 @@ Tambien funciona como red social, ya que puedes serguir a otros usuarios y compa
 
 - Hacer una campaña corporativa, en donde se impulse a varias personas de un area a completar un nivel de inglés y luego esas personas den su testimonio, para asi atraer al resto de personas del area. Esto impulsaria a otros empleados a usar Duolingo al ver que varios de sus compañeros lo estan usando y constatar todo lo que han logrado, los avances que han tenido y las nuevas oportunidades que se les estan presentando, sentirian que si no empiezan, pueden estar desaprovechando una oportunidad de crecer profesionalmente mas rapido y no serian tan visibles
 - Enviarle una notificación al usuario mostrandole cuantas palabras a aprendido y motivarlo a que refuerce el aprendizaje de estas y que aprenda mas palabras. Al ver resultados reales, el usuario va sentir la necesidad de aprender más, de se va a sentir sachisfecho por lo que ha logrado, pero va a sentir que debe seguir
+
++++
+## Integrantes
+* Yeferson Guarin Aristizabal
+* Esau Maximino
+* Milena Castro
+* Harold Peñaloza
